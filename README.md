@@ -1,4 +1,2 @@
 # test
-Just testing `.git/hooks/update`.
-
-hello there
+Just testing `.git/hooks/post-checkout`.
