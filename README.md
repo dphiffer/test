@@ -1,2 +1,2 @@
 # test
-Just testing
+Just testing `.git/hooks/update`
